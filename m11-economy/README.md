@@ -10,7 +10,6 @@
 - CA Hidalgo et al., The Product Space Conditions the Development of Nations, [Science 317, 482](http://www.sciencemag.org/content/317/5837/482.abstract) (2007).
 - CA Hidalgo and R. Hausmann, The building blocks of economic complexity, [PNAS 106, 10570](http://www.pnas.org/content/106/26/10570.short) (2009).
 - M. Cristelli et al., The Heterogeneous Dynamics of Economic Complexity, [PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117174) (2015). 
-
 - [TEDxBoston: César A. Hidalgo: Global Product Space](http://www.youtube.com/watch?v=GRp382ynu-Q)
 - [Ricardo Hausmann: Building blocks of economic complexity](http://www.youtube.com/watch?v=6bZ3keybWCo)
 
