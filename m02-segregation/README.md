@@ -14,6 +14,7 @@ As in the first assignment, create a document that reviews the literature, answe
 - Is segregation a result of homophily? Is homophily a result of segregation/avoidance? How are they related and how can we distinguish different scenarios?
 - How can noise affect the results?
 - Do you think the segregation and polarization of our society are getting worse? Why? or why not? What are the main factors that contribute to the trend? What do you think are the mechanisms?
+- Do you think the existing segregation in the society can be explained by the mechanism of the Schelling's model? Why? Why not?
 
 # Starting points 
 
